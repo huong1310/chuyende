@@ -1,0 +1,24 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	font-family:"Times New Roman";
+}
+
+#menu{
+	width:960px;
+	margin:0 auto;
+}
+
+div{
+	
+	line-height:30px;
+}
+td{
+	background-color: #F37123;
+	color: white;
+}
